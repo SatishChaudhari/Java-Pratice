@@ -1,4 +1,4 @@
-package JavaPractice1;
+package ArrayList;
 
 import java.util.HashMap;
 
