@@ -5,7 +5,7 @@ import java.util.Collections;
 
 public class ListTest {
     public static void main(String[] args) {
-        ArrayList <String> cars = new ArrayList<String>(); // Create an array list object
+        ArrayList<String> cars = new ArrayList<>(); // Create an array list object
         cars.add("Volvo");
         cars.add("BMW");
         cars.add("Ford");
